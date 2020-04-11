@@ -25,3 +25,4 @@ let devices: [String: String] = [
 
 devices["laptop"]
 devices["phone"]
+
