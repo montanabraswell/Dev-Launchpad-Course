@@ -2,7 +2,7 @@
 /*
 Montana Braswell
 April 11th 2020
-Dev Launchpad Course If/Else 
+Dev Launchpad Course If/Else
  */
 
 import UIKit
@@ -15,7 +15,7 @@ var isDarkModeOn = false
 if isDarkModeOn {
     print("That's how it should be.")
 }else {
-    print ("You are psycho.")
+    print ("You are a psycho.")
 }
 
 var myHighScore = 555
