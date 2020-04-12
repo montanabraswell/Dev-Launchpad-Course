@@ -40,3 +40,4 @@ if highScore > 500 {
 }   else{
     print ("Yikes")
 }
+
