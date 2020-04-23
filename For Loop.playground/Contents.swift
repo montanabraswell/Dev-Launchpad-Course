@@ -24,15 +24,11 @@ import UIKit
   
   var randomInts: [Int] = []
   
-  
-  
-  
-  
-// running a for loop 25 times
+// running a for loop 25 times while passing a random number generator
   for _ in 0..<25 {
     let randomNumber = Int.random(in: 0...100)
     randomInts.append(randomNumber)
   }
 
-
+// printing result
   print(randomInts)
